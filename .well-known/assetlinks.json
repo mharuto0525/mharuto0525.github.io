@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mharuto0525.pasha",
+        "sha256_cert_fingerprints": ["99:17:13:04:A6:B1:21:75:29:8F:C1:A4:FE:7E:53:43:97:6A:AA:EF:7E:29:66:26:88:B7:16:D5:5B:7D:DE:DB"]
+      }
+    }]
